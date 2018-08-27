@@ -1,2 +1,3 @@
 # Boxing-game
-a simple Boxing game made with canvas
+a Html, Css and Javascript Boxing game made with the canvas API
+<h3>Features </h3>
