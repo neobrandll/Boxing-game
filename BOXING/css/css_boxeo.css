@@ -1,0 +1,43 @@
+
+#scenario{
+    width: 800px;
+    height: 600px;
+    margin: 30px auto;
+}
+
+#btn{
+    background-image: url("img/Sbtn.png");
+    width: 300px;
+    height: 60px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    left: 630px;
+    top: 530px;
+    margin: 0 auto;
+}
+#canvas{
+    background-repeat: no-repeat;
+    background-image: url("img/ring.png");
+
+}
+body{
+    background-image: url("img/portada.png");
+    background-repeat: no-repeat;
+    background-size: 1545px 875px;
+
+}
+
+.perdedor{
+    width: 600px;
+    height: 150px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    position: absolute;
+    left: 520px;
+    top: 480px;
+}
+.finlink{
+    width: 1500px;
+     height: 650px;
+}
